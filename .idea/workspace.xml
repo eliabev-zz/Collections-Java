@@ -23,6 +23,8 @@
       <change afterPath="$PROJECT_DIR$/../exercicios/src/main/java/Funcional/Imutabilidade.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../exercicios/src/main/java/assincrono/ThreadExemploJava.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Documents/Global Labs/caracteristicas-da-linguagem/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,19 +36,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/list/ExampleList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/queue/ExampleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/list/ExampleVector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="294">
+              <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,10 +48,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/list/ExercicioList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/queue/ExercicioQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="150">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,7 +69,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -84,6 +77,8 @@
         <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/list/ExampleList.java" />
         <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/list/ExampleVector.java" />
         <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/list/ExercicioList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/queue/ExampleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/queue/ExercicioQueue.java" />
       </list>
     </option>
   </component>
@@ -117,7 +112,14 @@
               <item name="collections-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="collections-course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="digitalinnovation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collections-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collections-course" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="digitalinnovation" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,7 +147,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExercicioList">
+  <component name="RunManager" selected="Application.ExercicioQueue">
+    <configuration name="ExampleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.one.digitalinnovation.queue.ExampleLinkedList" />
+      <module name="collections-course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExampleList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.one.digitalinnovation.list.ExampleList" />
       <module name="collections-course" />
@@ -167,8 +176,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExercicioQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.one.digitalinnovation.queue.ExercicioQueue" />
+      <module name="collections-course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioQueue" />
+        <item itemvalue="Application.ExampleLinkedList" />
         <item itemvalue="Application.ExercicioList" />
         <item itemvalue="Application.ExampleVector" />
         <item itemvalue="Application.ExampleList" />
@@ -189,14 +207,14 @@
     <frame x="72" y="27" width="1288" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25764894" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25764894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289256" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289256" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -233,8 +251,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/list/ExercicioList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="615">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.16.0-openjdk-amd64!/java.base/java/util/LinkedList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/queue/ExampleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/queue/ExercicioQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
