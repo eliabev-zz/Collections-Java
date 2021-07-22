@@ -22,7 +22,6 @@
       <change afterPath="$PROJECT_DIR$/../exercicios/src/main/java/Funcional/Imutabilidade.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../exercicios/src/main/java/assincrono/ThreadExemploJava.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Documents/Global Labs/caracteristicas-da-linguagem/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,22 +33,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/map/ExampleHashMap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/ComparatorsExampleList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/map/ExampleTreeMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+            <state relative-caret-position="420">
+              <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,10 +45,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/map/ExercicioMap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/ExercicioComparatorsList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="50" column="62" selection-start-line="50" selection-start-column="62" selection-end-line="50" selection-end-column="62" />
+            <state relative-caret-position="268">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,6 +83,13 @@
         <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/map/ExampleHashMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/map/ExampleTreeMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/map/ExercicioMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/Estudante.java" />
+        <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/EstudanteOrdemReversaIdadeComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/ComparatorsExampleList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/ExercicioClasseCarro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/Carro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/CarroOrdemReversaComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/ExercicioComparatorsList.java" />
       </list>
     </option>
   </component>
@@ -137,7 +131,7 @@
               <item name="collections-course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="digitalinnovation" type="462c0819:PsiDirectoryNode" />
-              <item name="map" type="462c0819:PsiDirectoryNode" />
+              <item name="comparators" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,16 +158,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExercicioMap">
-    <configuration name="ExampleHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.one.digitalinnovation.map.ExampleHashMap" />
+  <component name="RunManager" selected="Application.ExercicioComparatorsList">
+    <configuration name="ComparatorsExampleList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.one.digitalinnovation.comparators.ComparatorsExampleList" />
       <module name="collections-course" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.one.digitalinnovation.set.ExampleHashSet" />
+    <configuration name="ExampleHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.one.digitalinnovation.map.ExampleHashMap" />
       <module name="collections-course" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -186,6 +180,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExercicioComparatorsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.one.digitalinnovation.comparators.ExercicioComparatorsList" />
+      <module name="collections-course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExercicioMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.one.digitalinnovation.map.ExercicioMap" />
       <module name="collections-course" />
@@ -193,20 +194,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.one.digitalinnovation.set.ExercicioSet" />
-      <module name="collections-course" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioComparatorsList" />
+        <item itemvalue="Application.ComparatorsExampleList" />
         <item itemvalue="Application.ExercicioMap" />
         <item itemvalue="Application.ExampleTreeMap" />
         <item itemvalue="Application.ExampleHashMap" />
-        <item itemvalue="Application.ExercicioSet" />
-        <item itemvalue="Application.ExampleHashSet" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +216,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="27" width="1288" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26650563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -231,7 +224,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289256" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289256" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -367,10 +360,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.16.0-openjdk-amd64!/java.base/java/util/List.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/map/ExercicioMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="50" column="62" selection-start-line="50" selection-start-column="62" selection-end-line="50" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/CarroOrdemReversaComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/Carro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding>
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/Estudante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/EstudanteOrdemReversaIdadeComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="77" lean-forward="true" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/ComparatorsExampleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/one/digitalinnovation/comparators/ExercicioComparatorsList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
