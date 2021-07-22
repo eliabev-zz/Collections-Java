@@ -24,6 +24,7 @@ public class ExercicioQueue {
         System.out.println(nomes);
 
         nomes.add("Daniel");
+        nomes.add("Daniel");
         System.out.println(((LinkedList<String>) nomes).indexOf("Daniel"));
         System.out.println(nomes);
 
@@ -32,6 +33,6 @@ public class ExercicioQueue {
         System.out.println(nomes.isEmpty());
 
         System.out.println(nomes.contains("Carlos"));
-        
+
     }
 }
