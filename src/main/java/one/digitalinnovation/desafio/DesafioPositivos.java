@@ -2,7 +2,7 @@ package main.java.one.digitalinnovation.desafio;
 
 import java.util.Scanner;
 
-public class Testes {
+public class DesafioPositivos {
     public static void main(String[] args) {
         Float[] teste = new Float[6];
 
